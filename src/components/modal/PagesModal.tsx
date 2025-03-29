@@ -34,7 +34,7 @@ export default function PagesModal({ selectedPages, setSelectedPages, ...props }
         <BaseModal {...props}>
             <div className='w-96 flex flex-col bg-white px-4 py-2 rounded-lg shadow-lg'>
 
-                <div className='w-full h-10.5 flex items-center justify-between' onClick={toggleSelectAll}>
+                <div className='w-full h-10.5 flex items-center justify-between'>
                     <p>All pages</p>
                     <CheckBox checked={selectAll} handleChange={toggleSelectAll} />
                 </div>
