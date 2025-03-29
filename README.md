@@ -18,7 +18,7 @@ To use this component in your React project, follow these steps:
 
 ```bash
 git clone https://github.com/kjsingh03/ellty-task1.git
-cd ellty
+cd ellty-task1
 ```
 
 ### 2. Install the dependencies
