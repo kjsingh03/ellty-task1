@@ -1,0 +1,9 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  color: #2e2e2e;
+  background: #fafafa;
+  font-family: "Montserrat", sans-serif;
+}
